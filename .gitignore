@@ -1,0 +1,22 @@
+# Development artifacts (not part of the distribution)
+.cursorrules
+TISHICI.TXT
+新文件 1.txt
+cache_backup/
+*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# WordPress / PHP
+*.log
+error_log
+wp-config.php
+.htaccess
+
+# Composer / node (if ever added)
+/vendor/
+/node_modules/
